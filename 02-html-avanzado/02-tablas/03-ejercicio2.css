@@ -1,0 +1,40 @@
+/* ESTILOS GENERALES */
+body {
+    background-color: rgb(117, 236, 117);
+}
+h1 {
+    text-align: center;
+}
+table, tr, th, td {
+    border: 1px solid black;
+}
+tr, th, td {
+    padding: 5px;
+    width: 200px;
+}
+
+/* COLORES DE FONDO DE LAS CELDAS */
+.bg-red {
+    background-color: red;
+}
+.bg-green {
+    background-color: rgb(105, 212, 63);
+}
+.bg-black {
+    background-color: black;
+}
+
+
+/* ESTILOS DE LAS LETRAS */
+.lt-red {
+    color: red;
+}
+.lt-white {
+    color: white;
+}
+.italic {
+    font-style: italic;
+}
+.bold {
+    font-weight: bold;
+}

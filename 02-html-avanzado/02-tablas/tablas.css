@@ -1,0 +1,14 @@
+table, tr, th, td {
+    border: 1px solid transparent;
+}
+table {
+    width: 300px;
+    border: 2px solid rgb(5, 26, 34);
+    border-radius: 10px;
+}
+th {
+    background-color: rgb(196, 167, 223);
+}
+td {
+    background-color: rgb(158, 158, 199);
+}
